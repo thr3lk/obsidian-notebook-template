@@ -1,0 +1,17 @@
+/* set tab min-width */
+.mod-root .workspace-tab-header {
+    min-width: 10em !important;
+}
+
+/* make tab labels smaller */
+.mod-root .workspace-tab-header-inner-title {
+    font-size: 0.8em !important;
+}
+
+.mod-root .workspace-tab-header-container-inner {
+    margin-right: 0.5em;
+}
+
+.workspace-tab-header-new-tab {
+    margin-inline-end: var(--size-4-1);
+}

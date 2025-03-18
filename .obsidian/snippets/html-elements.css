@@ -1,0 +1,11 @@
+div.view-content aside {
+    background-color: rgba(var(--color-blue-rgb), 0.15);
+    /* background-color: var(--accent-h); */
+    border-radius: 0.2em;
+    padding: 0.35em 0.5em;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+div.view-content aside {
+}
