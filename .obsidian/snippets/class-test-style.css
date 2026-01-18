@@ -1,23 +1,21 @@
-.class-test-style{
+.class-test-style {
     font-style: italic;
 }
 
-.class-test-style *{
+.class-test-style * {
     font-family: "Cascadia Code";
 }
 
-
-.theme-dark .class-test-style{
+.theme-dark .class-test-style {
     color: #8abbde;
     background-color: #25618c;
 }
 
-.theme-light .class-test-style{
+.theme-light .class-test-style {
     color: #25618c;
     background-color: #8abbde;
 }
 
-
-.movie-detail-page{
+.movie-detail-page {
     background-color: black;
 }

@@ -4,3 +4,7 @@
 !/.obsidian
 !.gitignore
 
+# manually included files
+!/Resources
+/Resources/*
+!/Resources/Templates and automations/
