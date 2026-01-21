@@ -1,0 +1,22 @@
+{
+  "baseFontSize": 14,
+  "theme": "system",
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "accentColor": "#0074d9",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "callouts",
+    "testclass",
+    "keyboard-markup",
+    "tab-control",
+    "html-elements",
+    "fix-left-padding",
+    "customize-editor-padding",
+    "anuppuccin-extended-colorschemes",
+    "anuppuccin-custom-rainbow-colors"
+  ],
+  "monospaceFontFamily": "Input Mono",
+  "textFontFamily": ""
+}
