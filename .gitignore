@@ -1,10 +1,14 @@
-#ignore everything except for the obsidian configuration
-#you will need to manually add things to track with git
+# ignore basically everything, then manually add things to track
+# mainly templates, other resources, and the readme
+
 /*
-!/.obsidian
+!/.obsidian/
 !.gitignore
 
 # manually included files
 !/Resources
 /Resources/*
 !/Resources/Templates and automations/
+
+
+# use .obsidian/.gitignore to manage what obsidian config stuff to track

@@ -3,7 +3,7 @@
 /icons
 #/snippets
 #app.json
-appearance.json
+#appearance.json
 backlink.json
 bookmarks.json
 command-palette.json
@@ -18,5 +18,3 @@ types.json
 workspaces.json
 workspace.json
 workspace-mobile.json
-
-.DS_Store
