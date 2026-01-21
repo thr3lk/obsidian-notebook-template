@@ -6,5 +6,5 @@ the two most interesting destinations here are:
 where you'll 
 
 
-### [Resources/Templates and automations](Resources/Templates+and+automations/)
+### [Resources/Templates and automations](Resources/Templates and automations/)
 a collection of templates, copypastas, etc that I find useful.
