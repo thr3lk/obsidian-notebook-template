@@ -1,0 +1,50 @@
+/* @settings
+name: editor padding
+id: left-editor-padding
+settings:
+    -
+        id: editor-settings-title
+        title: Editor Padding
+        type: heading
+        level: 3
+    -
+        id: editor-padding-left
+        title: editor padding size
+        type: variable-select
+        allowEmpty: false
+        options:
+            -
+                label: default
+                value: var(--size-4-8)
+            -
+                label: medium
+                value: var(--size-4-10)
+            -
+                label: big
+                value: var(--size-4-12)
+            -
+                label: bigger
+                value: var(--size-4-16)
+            -
+                label: biggest
+                value: var(--size-4-18)
+            -
+                label: custom (set below)
+                value: var(--editor-padding-left-custom)
+        default: var(--size-4-8)
+    -
+        id: editor-padding-left-custom
+        title: editor padding size
+        description: a custom size for the editor padding, set in ems
+        type: variable-number-slider
+        default: 1
+        min: 0
+        max: 20
+        step: 1
+        format: em
+    -
+*/
+
+* {
+    --file-margins-x: var(--editor-padding-left) !important;
+}
