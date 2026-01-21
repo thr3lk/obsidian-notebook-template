@@ -6,6 +6,7 @@
 !.gitignore
 
 # manually included files
+!readme.md
 !/Resources
 /Resources/*
 !/Resources/Templates and automations/
