@@ -9,14 +9,13 @@
   "enabledCssSnippets": [
     "callouts",
     "testclass",
-    "keyboard-markup",
-    "tab-control",
-    "html-elements",
     "fix-left-padding",
-    "customize-editor-padding",
-    "anuppuccin-extended-colorschemes",
-    "anuppuccin-custom-rainbow-colors"
+    "anuppuccin-custom-rainbow-colors",
+    "html-elements",
+    "keyboard-markup",
+    "anuppuccin-extended-colorschemes"
   ],
   "monospaceFontFamily": "Input Mono",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "showRibbon": true
 }

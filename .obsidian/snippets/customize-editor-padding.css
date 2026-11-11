@@ -48,3 +48,8 @@ settings:
 * {
     --file-margins-x: var(--editor-padding-left) !important;
 }
+
+/* fix space between bottom of editor and backlinks section */
+.cm-content {
+    padding-bottom: 3em !important;
+}
