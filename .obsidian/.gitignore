@@ -1,18 +1,18 @@
 /themes
 /plugins
 /icons
-#/snippets
-#app.json
-#appearance.json
-backlink.json
+# /snippets
+# app.json
+# appearance.json
+# backlink.json
 bookmarks.json
-command-palette.json
-community-plugins.json
-core-plugins.json
+# command-palette.json
+# community-plugins.json
+# core-plugins.json
 core-plugins-migration.json
-daily-notes.json
+# daily-notes.json
 graph.json
-hotkeys.json
+# hotkeys.json
 types.json
 
 workspaces.json
