@@ -17,7 +17,7 @@ A small but collection of templates and productivity copypastas that I find usef
 - a manifest of plugins, and maybe some notes on their configuration and useage
 - who knows, we'll see, etc.
 
-## other work
+# other work
 this repository is closely related to most of my other work, however it's especially related to my collections of [data notebooks][] and [llm prompts][]. it also likely shares a number of design concepts with my [dotfiles][].
 
 [data notebooks]:https://github.com/thr3lk/data-notebooks-for-ux-and-product-research
